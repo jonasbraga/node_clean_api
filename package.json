@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/jonasbraga/node_clean_api/issues"
   },
-  "homepage": "https://github.com/jonasbraga/node_clean_api#readme"
+  "homepage": "https://github.com/jonasbraga/node_clean_api#readme",
+  "devDependencies": {
+    "standart": "^6.1.0"
+  }
 }
