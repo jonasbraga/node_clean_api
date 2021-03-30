@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/jonasbraga/node_clean_api#readme",
   "devDependencies": {
+    "husky": "^6.0.0",
+    "lint-staged": "^10.5.4",
     "standart": "^6.1.0"
   }
 }
