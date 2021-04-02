@@ -6,7 +6,7 @@
   "scripts": {
     "test": "jest",
     "test:staged": "jest",
-    "lint": "eslint --fix --ext .js,.jsx .",
+    "lint:fix": "eslint --fix --ext .js,.jsx .",
     "prepare": "husky install"
   },
   "repository": {
